@@ -1,0 +1,43 @@
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Libraries
+*.lib
+*.a
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+*.__i
+*.crf
+
+*.lst
+*.lss
+*.map
+*.d
+
+*.bin
+*.sym
+
+.tags*
+*.axf
+*.lnp
+*.uvgui.*
+*_uvopt.bak
+Libraries/CMSIS/Documentation
+JLinkLog.txt
+3Dprinter_Target 1.dep
